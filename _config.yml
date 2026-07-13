@@ -16,8 +16,3 @@ plugins:
 
 # Equivalente a <html lang="pt-BR">
 locale: "pt-BR"
-
-# copyright no Rodapé
-footer:
-  copyright:
-    - content: "🄯 2006-2026"
