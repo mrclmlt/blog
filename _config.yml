@@ -19,4 +19,4 @@ plugins:
 
 # pra não aparecer "recent posts" no index.md
 pt-BR:
-  recent_posts: ""
+  recent_posts: " "
