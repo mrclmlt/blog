@@ -4,6 +4,7 @@ title: Blog
 ---
 Teste 1, 2, 3.
 
+[13 de jul 26](http://mrclmlt.com.br/13jul26.md)  
 [Teste](/blog/teste/)  
 [Defender a terra é defender a vida 11/07/26](26g798-defender-a-terra-e-defender-a-vida.md)  
 [Cena 10/07/26](26g797-cena.md)  
