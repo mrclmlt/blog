@@ -53,7 +53,8 @@ Em breve um blog
 [Não há destino 09/01/26](26a753-n-o-h-destino.md)  
 [Celam lança versão popular da Rerum Novarum, a primeira encíclica que marcou a históia social da Igreja 03/01/26](26a752-celam-lan-a-vers-o-popular-da-rerum-novarum-a-primeira-enc-clica-que-marcou-a-hist-ria-social-da-igr.md)  
 
-<details><summary><strong>2025</strong></summary>
+<details markdown="1"><summary><strong>2025</strong></summary>
+
 [Abaixo Assinado 17/12/25](25l751-abaixo-assinado.md)  
 [Maria de Verdade 13/11/25](25k750-maria-de-verdade.md)  
 [Contexto Religioso 10/11/25](25k749-contexto-religioso.md)  
