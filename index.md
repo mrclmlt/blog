@@ -52,6 +52,8 @@ Em breve um blog
 [Arcebispo filipino pede que a festa do Santo Niño rejeite patrocinadores ligados a jogos de azar 16/01/26](26a754-arcebispo-filipino-pede-que-a-festa-do-santo-ni-o-rejeite-patrocinadores-ligados-a-jogos-de-azar.md)  
 [Não há destino 09/01/26](26a753-n-o-h-destino.md)  
 [Celam lança versão popular da Rerum Novarum, a primeira encíclica que marcou a históia social da Igreja 03/01/26](26a752-celam-lan-a-vers-o-popular-da-rerum-novarum-a-primeira-enc-clica-que-marcou-a-hist-ria-social-da-igr.md)  
+
+<details><summary><strong>2025</strong></summary>
 [Abaixo Assinado 17/12/25](25l751-abaixo-assinado.md)  
 [Maria de Verdade 13/11/25](25k750-maria-de-verdade.md)  
 [Contexto Religioso 10/11/25](25k749-contexto-religioso.md)  
@@ -65,10 +67,16 @@ Em breve um blog
 [O Tribalismo Cristao 23/09/25](25i741-o-tribalismo-cristao.md)  
 [Devocao Mariana e Compromisso Social 23/09/25](25i740-devocao-mariana-e-compromisso-social.md)  
 [Iii Encontro Nacional da Economia 23/09/25](25i739-iii-encontro-nacional-da-economia.md)  
+</details>
+
+<details><summary><strong>2024</strong></summary>
 [teste 2 12/02/24](24b738-dozefev.md)  
 [teste 12/02/24](24b737-5176-2.md)  
 [Mudou-se 25/01/24](24a736-mudou-se.md)  
 [Confiando todas as necessidades da vida terrena ao Coração Divino livramos delas nosso coração, de modo que nossa alma se torna livre para participar da vida divina. 22/01/24](24a735-2101t.md)  
+</details>
+
+<details><summary><strong>2022</strong></summary>
 [O fogo do céu 26/06/22](22f734-o-fogo-do-ceu.md)  
 [O Senhor fará germinar sua justiça 25/06/22](22f733-o-senhor-fara-germinar-sua-justica.md)  
 [As condições do amor de Deus 24/06/22](22f732-as-condicoes-do-amor-de-deus.md)  
@@ -289,6 +297,9 @@ Em breve um blog
 [A Era Axial e a nossa (citação) 01/01/22](22a517-a-era-axial-e-a-nossa-citacao.md)  
 [Fé e política 01/01/22](22a516-fe-e-politica.md)  
 [Feliz 2022 01/01/22](22a515-feliz-2022.md)  
+</details>
+
+<details><summary><strong>2021</strong></summary>
 [Alemanha desativa mais três usinas nucleares 31/12/21](21l514-alemanha-desativa-mais-tres-usinas-nucleares.md)  
 [Gente sensível ponto com 31/12/21](21l513-gente-sensivel-ponto-com.md)  
 [Cristofacismo como discurso de proteção aos fundamentalismos 30/12/21](21l512-cristofacismo-como-discurso-de-protecao-aos-fundamentalismos.md)  
@@ -356,6 +367,9 @@ Em breve um blog
 [Se deixar com eles, eles levam até os bodes 03/01/21](21a450-se-deixar-com-eles-eles-levam-ate-os-bodes.md)  
 [Quem é o Cristo? 02/01/21](21a449-quem-e-o-cristo.md)  
 [Nossa Senhora das Pesquisas 01/01/21](21a448-nossa-senhora-das-pesquisas.md)  
+</details>
+
+<details><summary><strong>2020</strong></summary>
 [Maria, Mãe de Deus 31/12/20](20l447-maria-mae-de-deus.md)  
 [As vidraças do Carrefour 21/11/20](20k446-as-vidracas-do-carrefour.md)  
 [Lc 16,9 07/11/20](20k445-lc-169.md)  
@@ -443,6 +457,9 @@ Em breve um blog
 [Conversão de S. Paulo 26/01/20](20a363-conversao-de-s-paulo.md)  
 [Pouco com Deus 07/01/20](20a362-pouco-com-deus.md)  
 [A impotência do cristianismo 01/01/20](20a361-a-impotencia-do-cristianismo.md)  
+</details>
+
+<details><summary><strong>2019</strong></summary>
 [Quem me dera 24/12/19](19l360-quem-me-dera.md)  
 [Os limites da arte 23/12/19](19l359-os-limites-da-arte.md)  
 [Questionáveis sugestões 22/12/19](19l358-questionaveis-sugestoes.md)  
@@ -478,6 +495,9 @@ Em breve um blog
 [Primeiro post do blog 25/04/19](19d328-primeiro-post-do-blog.md)  
 [A chave da arte 14/01/19](19a327-a-chave-da-arte.md)  
 [Missas 09/01/19](19a326-missas.md)  
+</details>
+
+<details><summary><strong>2018</strong></summary>
 [Sobretensão 22/09/18](18i325-sobretensao.md)  
 [Portfólio artístico 14/09/18](18i324-portfolio-artistico.md)  
 [A Bolha 10/09/18](18i323-a-bolha.md)  
@@ -486,6 +506,9 @@ Em breve um blog
 [Na minha urna 03/09/18](18i320-na-minha-urna.md)  
 [Em cima do muro ou em uma zona de fronteira? 14/08/18](18h319-em-cima-do-muro-ou-em-uma-zona-de-fronteira.md)  
 [Se eu não vir as marcas dos pregos… 08/04/18](18d318-se-eu-nao-vir-as-marcas-dos-pregos.md)  
+</details>
+
+<details><summary><strong>2017</strong></summary>
 [None 18/10/17](17j317-276-2.md)  
 [Efésios e a submissão das mulheres parte II 17/10/17](17j316-efesios-e-a-submissao-das-mulheres-parte-ii.md)  
 [Veneno anti-ressentimento 14/06/17](17f315-veneno-anti-ressentimento.md)  
@@ -499,6 +522,13 @@ Em breve um blog
 [20 minutos 10/03/17](17c307-20-minutos.md)  
 ["A submissão recíproca ‘no temor de Cristo’ " 10/03/17](17c306-a-submissao-reciproca-no-temor-de-cristo.md)  
 [Retomada 10/03/17](17c305-retomada.md)  
+</details>
+
+<details><summary><strong>2012-2016</strong></summary>
+<p>?????</p>
+</details>
+
+<details><summary><strong>2011</strong></summary>
 [Jaelle 19/06/11](11f304-jaelle.md)  
 [None 17/06/11](11f303-309-2.md)  
 [Hipátia 08/03/11](11c302-hipatia.md)  
@@ -514,9 +544,15 @@ Em breve um blog
 [Um blog desinteressante 14/02/11](11b292-um-blog-desinteressante.md)  
 [Ontem 14/02/11](11b291-ontem.md)  
 [Nem lembrava deste blog… 14/02/11](11b290-nem-lembrava-deste-blog.md)  
+</details>
+
+<details><summary><strong>2009</strong></summary>
 [Relação 14/05/09](09e289-relacao.md)  
 [Tesão pelo amor e amor pelo tesão 06/04/09](09d288-tesao-pelo-amor-e-amor-pelo-tesao.md)  
 [Holocausto 27/02/09](09b287-holocausto.md)  
+</details>
+
+<details><summary><strong>2008</strong></summary>
 [Sonho 21/11/08](08k286-sonho.md)  
 [A hora e a vez da lixeira 18/10/08](08j285-a-hora-e-a-vez-da-lixeira.md)  
 [Idéias 18/10/08](08j284-ideias.md)  
@@ -589,6 +625,9 @@ Em breve um blog
 [Descoberta 13/01/08](08a217-descoberta.md)  
 [Simone de Beauvoir, cem anos de feminismo 06/01/08](08a216-simone-de-beauvoir-cem-anos-de-feminismo.md)  
 [Believe 06/01/08](08a215-believe.md)  
+</details>
+
+<details><summary><strong>2007</strong></summary>
 [W.O. 28/12/07](07l214-w-o.md)  
 [Infância, de Nathalie Sarraute 27/12/07](07l213-infancia-de-nathalie-sarraute.md)  
 [Saibam 27/12/07](07l212-saibam.md)  
@@ -755,6 +794,9 @@ Em breve um blog
 [Um trecho e uma citação 02/01/07](07a51-um-trecho-e-uma-citacao.md)  
 [questões nada a ver 01/01/07](07a50-questoes-nada-a-ver.md)  
 [Feliz 2007!! 01/01/07](07a49-feliz-2007.md)  
+</details>
+
+<details><summary><strong>2006</strong></summary>
 [Mais filosofia e enfermagem 31/12/06](06l48-mais-filosofia-e-enfermagem.md)  
 [Momento sem assunto 31/12/06](06l47-momento-sem-assunto.md)  
 [Da série "Textos enormes para problemas maiores ainda" 31/12/06](06l46-da-serie-textos-enormes-para-problemas-maiores-ainda.md)  
@@ -803,3 +845,4 @@ Em breve um blog
 [Filosofia clínica 03/12/06](06l3-filosofia-clinica.md)  
 [Geografia deste blog 03/12/06](06l2-geografia-deste-blog.md)  
 [De primeira 03/12/06](06l1-de-primeira.md)  
+</details>
