@@ -2,7 +2,6 @@
 layout: home
 title: Blog
 ---
-# Blog
-Este é o meu primeiro teste.
+Teste 1, 2, 3.
 
 [Teste](/blog/teste/)
