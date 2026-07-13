@@ -1,0 +1,20 @@
+---
+layout: single
+title: "A Era Axial e a nossa (citação)"
+date: 2022-01-01 17:35:40 +0000
+permalink: /22a517-a-era-axial-e-a-nossa-citacao/
+header:
+  og_image: "https://mrclmlt.com.br/capa.jpg"
+---
+
+01/01/2022
+
+> Em todos os tempos e em todas as tradições sempre houve gente que combateu a modernidade de sua época. Entretanto o fundamentalismo que vamos analisar é um movimento do século XX por excelência. É uma reação contra a cultura científica e secular que nasceu no Ocidente e depois se arraigou em outras partes do mundo. O Ocidente criou um tipo distinto de civilizado, totalmente inédito, que desencadeou uma reação religiosa sem precedentes. Os movimentos fundamentalistas contemporâneos têm uma relação simbiôntica com a modernidade. Podem rejeitar o racionalismo científico do Ocidente, mas não têm como fugir dele. A civilização ocidental mudou o mundo. Nada – nem a religião – serão como antes. Em todo o planeta há pessoas lutando contra essas novas condições e vendo-se obrigadas a reafirmar suas tradições religiosas, que foram concebidas para um tipo de sociedade inteiramente diverso.
+
+> No mundo antigo houve um período de transição semelhante, que se estende aproximadamente de 700 a 200 a.C. e que os historiadores chamam de Era Axial, porque foi crucial para o desenvolvimento espiritual da humanidade. Esse período resultou de uma evolução econômica – e, portanto, social e cultural – de milhares de anos que se iniciou na Suméria, onde hoje é o Iraque, e no antigo Egito. Nos quarto e terceiro milênios antes de Cristo os homens já não se limitavam a plantar o suficiente para satisfazer suas necessidades imediatas, mas produziam excedentes agrícolas que podiam comercializar e converter em ganhos extras. Assim conseguiram construir as primeiras civilizações, desenvolver as artes e organizar comunidades cada vez mais fortes: cidades, CIDADES-ESTADOS e, por fim, impérios. Na sociedade agrária o poder não se restringia ao rei ou ao sacerdote; ao menos em parte seu foco se deslocou para o mercado, fonte da riqueza de cada cultura. Começou-se a pensar que o velho paganismo, adequado aos ancestrais, já não convinha às novas circunstâncias.
+
+> Nas cidades e nos impérios da Era Axial os cidadãos adquiriam perspectivas mais amplas e horizontes mais extensos, diante dos quais os velhos cultos locais pareciam limitados e provincianos. Em vez de ver o divino incorporado em diferentes deidades, passaram cada vez mais a venerar uma única transcendência universal, fonte do sagrado. Dispondo de maior tempo livre, podiam cultivar uma vida interior mais rica; desejavam uma espiritualidade que não dependesse inteiramente de formas externas. Os mais sensíveis se afligiam com a injustiça social que parecia incrustada nessa sociedade agrária, dependente do trabalho de camponeses excluídos da alta cultura. Conseqüentemente surgiram profetas e reformadores, dizendo que a virtude da compaixão era crucial para a vida espiritual: a verdadeira devoção se revelava na capacidade de ver o sagrado cm todo individuo e na disposição para cuidar dos membros mais vulneráveis da sociedade. Assim brotaram no mundo civilizado da Era Axial as grandes religiões confessionais que continuaram guiando a humanidade: o budismo e o hinduísmo na índia; o confucionismo e o taoísmo no Extremo Oriente; o monoteísmo no Oriente Médio; o racionalismo na Europa. Apesar de suas grandes diferenças, essas religiões da Era Axial tinham muito em comum: todas partiram de velhas tradições para desenvolver a idéia de uma única transcendência universal; todas cultivavam uma espiritualidade interiorizada e enfatizavam a importância da prática da compaixão.
+
+> Hoje estamos vivendo um período de transição semelhante, como já dissemos.
+
+[Karen Armstrong](https://pt.wikipedia.org/wiki/Karen_Armstrong). [Em nome de Deus](https://pt.wikipedia.org/wiki/The_Battle_for_God): o fundamentalismo no judaísmo, no cristianismo e no islamismo

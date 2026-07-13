@@ -1,0 +1,28 @@
+---
+layout: single
+title: "Ver, ouvir e falar"
+date: 2022-04-18 03:42:10 +0000
+permalink: /22d680-ver-ouvir-e-falar/
+header:
+  og_image: "https://mrclmlt.com.br/midia/22d680-ver-ouvir-e-falar.jpg"
+---
+
+18/04/2022
+
+![](/midia/22d680-ver-ouvir-e-falar.jpg)
+
+A Páscoa não acontece para consolar intimamente quem chora a morte de Jesus, mas para abrir de par em par os corações ao anúncio extraordinário da vitória de Deus sobre o mal e a morte
+
+As mulheres veem. O primeiro anúncio da Ressurreição é feito, não sob uma fórmula a decifrar, mas sob um sinal que se deve contemplar. Num cemitério, junto dum túmulo, onde tudo deveria estar em ordem e sossego, as mulheres «encontraram removida a pedra da porta do sepulcro e, entrando, não acharam o corpo do Senhor Jesus» (24, 2-3). Por outras palavras, a Páscoa começa invertendo os nossos esquemas. Chega com o dom duma esperança surpreendente. Mas não é fácil acolhê-la. Às vezes (temos de o admitir!) esta esperança não encontra espaço no nosso coração. Em nós, como nas mulheres do Evangelho, prevalecem interrogações e dúvidas, e a primeira reação face ao sinal imprevisto é o medo, é voltar «o rosto para o chão» (cf. 24, 4-5).
+
+Com muita frequência, contemplamos a vida e a realidade com os olhos voltados para baixo; fixamo-nos apenas no dia de hoje que passa, desiludidos quanto ao futuro, fechamo-nos nas nossas necessidades, acomodamo-nos na reclusão da apatia, enquanto continuamos a lamentar-nos e a pensar que as coisas nunca vão mudar. E assim permanecemos imóveis diante do túmulo da resignação e do fatalismo, e sepultamos a alegria de viver. Mas, nesta noite, o Senhor quer dar-nos olhos diferentes, iluminados pela esperança de que o medo, o sofrimento e a morte não terão a última palavra sobre nós. Graças à Páscoa de Jesus, podemos dar o salto do nada para a vida, «e a morte não poderá mais defraudar-nos da nossa existência» (K. Rahner, O que significa a Páscoa, Brescia 2021, 28): esta foi abraçada, inteiramente e para sempre, pelo amor sem limites de Deus. É verdade; pode-nos amedrontar e paralisar. Mas o Senhor ressuscitou! Levantemos o olhar, retiremos dos nossos olhos o véu da amargura e da tristeza, abramo-nos à esperança de Deus!
+
+Em segundo lugar, as mulheres escutam. Depois de terem visto o sepulcro vazio, dois homens em trajes resplandecentes disseram-lhes: «Porque buscais o Vivente entre os mortos? Não está aqui; ressuscitou!» (24, 5-6). Faz-nos bem ouvir e repetir estas palavras: não está aqui! Sempre que pretendemos ter entendido tudo acerca de Deus, podê-Lo arrumar nos nossos esquemas, repitamos a nós mesmos: não está aqui! Sempre que O procuramos apenas nas emoções, muitas vezes passageiras, ou nos momentos de necessidade, para depois O deixarmos de lado esquecendo-nos d’Ele nas situações quotidianas e nas opções concretas de cada dia, repitamos: não está aqui! E quando pensamos em confiná-Lo nas nossas palavras, nas nossas fórmulas e nas nossas tradições, mas esquecendo-nos de O procurar nos cantos mais escuros da vida onde há alguém que chora, que luta, sofre e espera, repitamos: não está aqui!
+
+Ouçamos, também nós, a pergunta dirigida às mulheres: «Porque buscais o Vivente entre os mortos?» Não podemos fazer Páscoa, se continuamos a morar na morte; se permanecemos prisioneiros do passado; se na vida não temos a coragem de nos deixar perdoar por Deus – que perdoa tudo -, a coragem de mudar, de romper com as obras do mal, a coragem de nos decidirmos por Jesus e pelo seu amor; se continuamos a reduzir a fé a um amuleto, fazendo de Deus uma bela recordação de tempos passados, em vez de ir hoje ao seu encontro como o Deus vivo que deseja transformar-nos a nós e ao mundo. Um cristianismo que busca o Senhor entre as ruínas do passado e O encerra no túmulo da rotina é um cristianismo sem Páscoa. Mas o Senhor ressuscitou! Não nos demoremos ao redor dos túmulos, mas vamos redescobri-Lo a Ele, o Vivente! E não tenhamos medo de O procurar também no rosto dos irmãos, na história de quem espera e de quem sonha, na dor de quem chora e sofre: Deus está lá!
+
+Por fim as mulheres anunciam. Que anunciam elas? A alegria da Ressurreição. A Páscoa não acontece para consolar intimamente quem chora a morte de Jesus, mas para abrir de par em par os corações ao anúncio extraordinário da vitória de Deus sobre o mal e a morte. Por isso, a luz da Ressurreição não quer delongar as mulheres no êxtase dum gozo pessoal, não tolera comportamentos sedentários, mas gera discípulos missionários que «voltam do sepulcro» (24, 9) e levam a todos o Evangelho do Ressuscitado. Por isso mesmo, depois de ter visto e escutado, as mulheres correm a anunciar aos discípulos a alegria da Ressurreição. Sabem que poderiam ser tomadas por loucas – aliás o Evangelho diz que «as suas palavras pareceram-lhes um desvario» (24, 9) –, mas não estão preocupadas com a sua reputação, a defesa da sua imagem; não reprimem os sentimentos, nem medem as palavras. Apenas tinham o coração ardente para transmitir a notícia, o anúncio: “O Senhor ressuscitou!”
+
+[Homilia na vigília pascal em 16/04](https://www.vatican.va/content/francesco/pt/homilies/2022/documents/20220416-omelia-veglia-pasquale.html)
+
+Imagem: [Joel Muniz](https://unsplash.com/@jmuniz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

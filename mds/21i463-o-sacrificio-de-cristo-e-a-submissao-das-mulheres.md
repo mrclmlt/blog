@@ -1,0 +1,24 @@
+---
+layout: single
+title: "O sacrifício de Cristo e a submissão das mulheres"
+date: 2021-09-03 04:50:00 +0000
+permalink: /21i463-o-sacrificio-de-cristo-e-a-submissao-das-mulheres/
+header:
+  og_image: "https://mrclmlt.com.br/capa.jpg"
+---
+
+03/09/2021
+
+Na maioria das vezes em que alguém tenta justificar o próprio machismo na passagem de Ef 5,21-32, costuma começar em “mulheres sejam submissas” e terminar em “aos seus maridos”, pulando os versículos anteriores e posteriores como se eles fossem as linhas arranhadas de um disco antigo. Mas a passagem começa com “Sede submissos uns aos outros” e continua “no temor de Cristo”, para só então falar primeiro das mulheres, depois dos homens e enfim da Igreja, sem distinguir em que ponto do texto, especificamente, o assunto passou a ser a Igreja – cuja submissão a Cristo ninguém nega.
+
+Se a Palavra de Deus não muda, isto não se aplica às distorções secularmente aceitas, e menos ainda quando estas distorções fundamentam e justificam injustiças. Portanto, antes que alguém pense que as mulheres devem ser submissas aos maridos, deveria lembrar que, antes, é necessário submetermo-nos uns aos outros. Como isto funciona? Eu não sei, mas quem pretende submeter as mulheres aos homens deveria, pelo contrário, resolver isto, pois se esta submissão mútua vem antes da (pretensiosamente religiosa) submissão feminina, é porque deve ser mais importante, e sugerir a submissão das mulheres suprimindo esta submissão mútua é somente fazer dos próprios desejos a Palavra de Deus – assim como sugerir esta submissão em algum momento posterior também, afinal, mesmo em uma interpretação literal, Paulo diz para as mulheres que “submetam-se”, e não para os homens que “submetam-nas”, ainda que menos errado não seja o mesmo que correto.
+
+Cristo, por exemplo, nunca disse que os convertidos de fora do judaísmo deveriam observar a lei de Moisés, nem que não deveriam, e a Igreja deliberou, no “concílio” de Jerusalém (At 15, 5-21), que fora a abstenção “das impurezas da idolatria, da imoralidade, da carne asfixiada, e do sangue” (v. 20), o resto não era problema (e mais tarde os dois últimos itens também caíram); inspirada pelo Espírito Santo, a Igreja submeteu-se à vontade de Cristo em um caso sobre o qual Cristo não deixou nenhuma orientação expressa. Se existem orientações expressas de Cristo (“amai a Deus sobre todas as coisas e ao próximo como a ti mesmo”, ṕor exemplo), nenhum marido tem legitimidade alguma para dar outras orientações expressas que não sejam as que Cristo deixou – em outras palavras, sua autoridade se fundamenta em Cristo de modo semelhante à autoridade daquele rei do Pequeno Príncipe, a quem o sol se submete ao se pôr todos os dias na hora em que tem que se pôr, e ao nascer todos os dias na hora que tem que nascer e, sabiamente, não manda o sol fazer nada diferente disto.
+
+Colocar as coisas nestes termos pode até parecer piada, mas não é: nas questões sobre as quais Cristo não deixou nenhuma orientação específica, a Igreja, assistida pelo Espírito Santo, até hoje decide (e decide conforme a vontade de Cristo, a quem é submissa); as mulheres, submissas ao marido como a Igreja a Cristo, também. E Cristo não está tentando convencer a Igreja a não trabalhar fora de casa, não está exigindo que a Igreja satisfaça seus caprichos masculinos, não fica dizendo à Igreja qual roupa deve vestir, nem cobra o jantar pronto quando chegar em casa; muito menos é violento, infiel, escorado e indiferente, por exemplo (em exemplos que nem deveriam mais fazer sentido).
+
+Os maridos, que são o Cristo nesta passagem de Efésios, “devem amar suas esposas como amam seu próprio corpo” que, segundo A Bíblia sem Mitos (p. 126), significa o próprio “eu” na antropologia semítica (que era a compreensão do ser humano a partir da qual tanto Paulo quanto Cristo escreveram ou disseram o que está registrado, sob a inspiração do Espírito Santo, na Bíblia), e somente isto poderia bastar para desfazer qualquer interpretação machista desta passagem de Efésios; mas antes de colocar a medida do amor neles próprios, Paulo colocou como medida o amor de Cristo pela Igreja, que se entregou por ela.
+
+Talvez esta passagem de Efésios se resuma, enquanto “conselheira matrimonial”, ao seu início (“sede submissos uns aos outros”), aconselhando as esposas a levarem em conta o marido naquilo que elas decidem, e os maridos a tratarem a sua esposa em pé de igualdade (“como a seu próprio corpo”, considerando aí “corpo” no sentido de “eu”, conforme o livro mencionado acima), o que seria uma forma de submissão mútua.
+
+Seja como for, o pano de fundo de qualquer interpretação bíblica é o sacrifício de Cristo para a nossa salvação, e não o sacrifício dos outros em prol dos próprios sentimentos de superioridade.

@@ -1,0 +1,22 @@
+---
+layout: single
+title: "Inferno e Paz"
+date: 2025-10-14 12:00:00 +0000
+permalink: /25j745-inferno-e-paz/
+header:
+  og_image: "https://mrclmlt.com.br/capa.jpg"
+---
+
+14/10/2025 - Teologia experimental
+
+“Você vai para o inferno se não acreditar em Deus” é uma ameaça que, graças a Deus, não surte mais muito efeito hoje em dia. Mesmo quando funcionava era ruim (mas talvez ninguém percebesse isso) porque é mais ou menos como apontar uma arma na cara de alguém e tentar obrigar a vítima a acreditar em Deus. E agora é pior porque, além da ameaça, ela é irrisória, como ameaçar alguém fazendo arminha com as mãos: “acredite em Deus e também que vai sair uma bala da ponta do meu dedo indicador”.
+
+Tem muita gente que não acredita em inferno, a ponto de Bento XVI ter que ter reafirmado a doutrina de que ele existe sim. Mas isso só serve pra quem já tem fé em Deus, quer dizer, gente que já acredita em Deus mas omite, cuidadosamente, essa parte, que é justamente sobre Deus não obrigar ninguém a acreditar nele – a ponto de permitir, às custas do seu próprio sofrimento divino, que alguém decida pelo rompimento definitivo com Deus, que é o que significa o inferno. Mas em geral, a ameaça é inócua porque ou o ameaçado já acreditava em Deus, quer acredite ou não também no inferno, ou não acredita em Deus e, se não acredita no principal, que é Deus, provavelmente não vai acreditar em detalhes como o inferno.
+
+A questão é que se trata de escolhas definitivas, mas tem uma diferença entre escolher Deus e escolher não ir pro inferno (o que é confuso porque é meio redundante, mas escolher Deus por amor ao prṕprio Deus é diferente de escolher Deus por medo do inferno, apesar de levar a Deus também, mas só porque Deus é a única alternativa ao inferno). Só que, para além disto, a ameaça (“ou Deus ou o inferno”) não funciona também porque muita gente já conheceu (e sobreviveu) ao que considerava um inferno, e no meio de tantos sofrimentos a que estamos expostos hoje em dia, “você vai pro inferno” perde o caráter de ameaça e se parece com mais do mesmo pelo qual muita gente passou, ou ainda passa. Tem quem tente usar ainda o “mas o inferno mesmo é muito pior do que isto que você passou” como se as pessoas já não tivessem visto o que não tinha como ser pior piorar ainda mais, a despeito de parecer já o fundo do poço. Realmente o inferno é pior, mas isso só vai ter efeito com quem ama Deus e não precisa de ameaça nenhuma para isso.
+
+Acho que nem falar em vida eterna adianta muito, porque quem acredita em vida eterna geralmente já acredita em Deus também, aí tem que convencer o outro, quando não acredita em vida eterna, que a vida eterna existe para daí Deus entrar na jogada. Não é que não seja verdade, mas na prática parece mais aquilo que a propaganda faz, que é criar uma necessidade que não existe e aí vender a solução. No fim me parece muito mais sensato falar de Deus, anunciar Jesus, que o básico do básico geralmente funciona melhor. Por mais que Paulo tenha dito que é necessário dar razões da própria fé, se for para argumentar tão mal é melhor falar da própria fé e deixar de lado a argumentação – até porque, dando razões ou não, quem converte alguém é Deus mesmo, e não os argumentos de alguém, sejam eles brilhantes ou horríveis.
+
+Apesar de tanto inferno e vida eterna acima, isso tudo me ocorreu graças ao ceticismo com a mais recente paz em Gaza. Aliás, não é nem pelo ceticismo, mas sim pelo desdém de quem tem a certeza de que não vai durar. Esses pensamentos sobre as coisas eternas foram porque, até certo ponto não deixa de ser verdade: a paz em Gaza não vai durar. Mas isso é porque paz nenhuma aqui na terra vai durar, assim como também guerra nenhuma. Só o que vai perdurar eternamente é Deus e, por graça dele, quem entrar na vida eterna pela fé em Deus. E desdenhar de uma paz provisória (mesmo que tenha sido articulada por tanta gente ruim e por motivos ruins que nem eles) é desdenhar toda a possibilidade de paz que pode haver no mundo.
+
+Paz nenhuma vai durar, e guerra nenhuma também não. Mas desdenhar de um alívio provisório implica em prolongar por nada um sofrimento provisório, o que é mais fácil de fazer quando o alívio ou o sofrimento é o dos outros e não o próprio, independente daquilo no que se creia ou deixe de acreditar.

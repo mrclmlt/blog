@@ -1,0 +1,34 @@
+---
+layout: single
+title: "Corpus Christi, o sonho de uma visionária"
+date: 2026-06-02 07:13:16 +0000
+permalink: /26f786-corpus-christi-o-sonho-de-uma-visionaria/
+header:
+  og_image: "https://mrclmlt.com.br/capa.jpg"
+---
+
+02/06/2026 - Teologia experimental
+
+Juliana de Mont Cornillon foi uma freira agostiniana do Convento de “Mont Cornillon” que ficou conhecida por promover a introdução da Festa de Corpus Christi no âmbito da Igreja Católica. Aos 13 anos de idade optou pela vida religiosa e em torno de 1208 passou a ter visões que solicitavam à Igreja uma festa em honra do Santíssimo Sacramento, que ela confidenciou ao arcediago de Liége. Quando ele virou o papa Urbano IV, instituiu a festa de Corpus Christi um pouco antes de falecer em 1264. Ela faleceu em 1258, de causas naturais.
+
+Juliana e sua irmã gêmea Agnes nasceram na vila de Retinnes, no Principado Episcopal de Liège. Ficaram órfãs aos cinco anos de idade e foram colocadas em uma espécie de casa de misericórdia recém-fundada de um mosteiro em Mont-Cornillon, nos arredores de Liège. O mosteiro parece ter sido estabelecido com base no modelo de um mosteiro duplo, com religiosos e religiosas vivendo nas alas respectivamente masculina e feminina do mosteiro. As duas meninas foram inicialmente colocadas em uma pequena fazenda ao lado. Juliana, após ingressar na Ordem aos 13 anos, trabalhou por muitos anos em seu leprosário. Agnes parece ter morrido jovem, pois não há mais menções a ela nos arquivos.
+
+Desde a juventude, Juliana tinha grande veneração pela Eucaristia (assim como muitas mulheres de Liège) e desejava um dia festivo especial em sua honra. Quando Juliana tinha 16 anos, teve sua primeira visão, que se repetiu várias vezes posteriormente. Sua visão apresentava a lua em todo o seu esplendor, atravessada diametralmente por uma faixa escura. Com o tempo, ela passou a entender que a lua simbolizava a vida da igreja na terra, enquanto a linha opaca representava a ausência de uma festa litúrgica em honra ao Corpo e Sangue de Cristo. Sem ter como instituir tal festa, ela guardou seus pensamentos para si, exceto por compartilhá-los com uma anacoreta, Eva de Liège, que vivia em uma cela adjacente à Basílica de São Martinho, e com algumas outras irmãs de confiança em seu mosteiro. Sua visão está representada na [letra capitular ilustrada](https://pt.wikipedia.org/wiki/Letra_capitular) de sua Vita (conforme aparece em: Paris, Biblioteca de l’Arsenal, MS 945, fol. 2).
+
+Por volta de 1225, ela foi eleita prioresa do mesmo mosteiro, e relatou suas visões ao seu confessor, o Cônego João de Lausanne (um cônego secular do capítulo colegiado da Basílica de São Martinho). O Cônego João tinha muitos contatos entre os distintos teólogos franceses e professores dominicanos que se reuniam em Liège. Entre eles estavam Roberto de Thorete, Bispo de Liège; Hugo de Saint-Cher, Prior Provincial Dominicano para a França; e Jacques Pantaleon de Troyes, Arcediago de Liège, que mais tarde se tornou bispo da Diocese de Verdun, depois Patriarca Latino de Jerusalém e, finalmente, papa, governando sob o nome de Papa Urbano IV. Consta que o Cônego João transmitiu a visão de Juliana a esses distintos líderes religiosos. Esses teólogos concordaram unanimemente que não havia nada na devoção da festa que fosse contrário à fé católica e apoiaram a sua instituição.
+
+Ao receber a aprovação das autoridades religiosas locais, Juliana começou a trabalhar com o Cônego João, que ainda era um jovem, e juntos compuseram a versão inicial do ofício, Animarum cibus1. Este ofício antigo pode ser encontrado no manuscrito composto em Haia, na Biblioteca Nacional dos Países Baixos (KB 70.E.4). Em 1246, o Bispo Roberto instituiu a primeira festa do Corpo e Sangue de Cristo para sua própria diocese. No entanto, ele morreu no final daquele mesmo ano e nunca a viu concluída, embora a festa tenha sido celebrada pelos cônegos de São Martinho.
+
+A vida de Juliana foi repleta de tumultos, em grande parte como consequência das controvérsias religiosas e políticas que assolavam Liège: uma classe média urbana emergente que exigia novos direitos, rivalidades políticas entre os Guelfos e os Gibelinos, e disputas internas entre a baixa nobreza de Flandres. Esses conflitos criaram um contexto propício para esse tipo de movimento.
+
+Quando Juliana se tornou prioresa do convento, ela restabeleceu as regras agostinianas estritas. Em 1240, um homem chamado Roger tornou-se supervisor no mosteiro. Ele imediatamente antipatizou com Juliana e com suas cobranças, e incitou a população contra ela, acusando-a de desviar e roubar os fundos do hospital. Por causa disto ela fugiu para o eremitério de sua amiga, Dama Eva, e foi então acolhida na casa do Cônego João, ao lado da basílica. Com a ajuda de Roberto de Thourotte, o Bispo de Liège, Juliana foi inocentada, reconduzida ao seu cargo anterior no mosteiro e Roger foi deposto. Em 1247, porém, com a morte do Bispo Roberto, Roger recuperou mais uma vez o controle de Mont Cornillon sob o novo bispo, Henrique de Gueldre, e Juliana foi novamente expulsa. Esses eventos na biografia de Juliana apontam, até certo ponto, para o cenário histórico mais amplo de rivalidade pelo bispado vacante, amplificado pela excomunhão de Frederico II pelo Papa Inocêncio IV.
+
+Depois disso, Juliana encontrou refúgio nos mosteiros cistercienses de Robermont, Val-Benoit e Val-Notre-Dame, e depois entre as beguinas pobres. Ajudada pela Abadessa Imene, que era irmã do Arcebispo Conrado de Colônia, Juliana fixou residência na Abadia Cisterciense de Salzinnes e, finalmente, em Fosses-la-Ville, no Condado de Namur, onde viveu em reclusão até sua morte.
+
+Em seu leito de morte, ela pediu por seu confessor, João de Lausanne, supostamente para revelar-lhe segredos há muito ocultos. Mas nem ele nem nenhum de seus amigos de Liège chegaram. Após sua morte, com base em seus desejos, seu amigo, o monge cisterciense Gobert d’Aspremont, transferiu seu corpo para a Abadia de Villers. No domingo seguinte, seus restos mortais foram movidos para a seção do cemitério reservada aos santos. Embora seu culto tenha se desenvolvido imediatamente, ele só recebeu reconhecimento oficial em 1869, sob o Papa Pio IX.
+
+*Meio copiado, meio adaptado dos artigos sobre a santa nas wikipedias em [português](https://pt.wikipedia.org/wiki/Juliana_de_Mont_Cornillon), [espanhol](https://es.wikipedia.org/wiki/Juliana_de_Fosses) e [inglês](https://en.wikipedia.org/wiki/Juliana_of_Li%C3%A8ge). A imagem é da [Wikimedia](https://commons.wikimedia.org/wiki/File:AntiguaEasterCarpetMacaws.jpg).*
+
+—
+
+1 Depois o papa pediu para Tomás de Aquino compor um novo ofício, sabe-se se lá porque, e foi aí que surgiu o atual [Pange lingua](https://pt.wikipedia.org/wiki/Pange_lingua_gloriosi_corporis_mysterium), mais conhecido (pelo menos por mim) pelas duas últimas estrofes em pt-br, Tão sublime Sacramento.

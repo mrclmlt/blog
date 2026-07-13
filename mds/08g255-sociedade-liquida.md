@@ -1,0 +1,31 @@
+---
+layout: single
+title: "Sociedade Líquida."
+date: 2008-07-19 04:11:00 +0000
+permalink: /08g255-sociedade-liquida/
+header:
+  og_image: "https://mrclmlt.com.br/capa.jpg"
+---
+
+19/07/2008
+
+Zygmunt Bauman tem um conceito de “liquefação” da sociedade atual. Para ele, a modernidade caracteriza-se por ser líquida. Isso quer dizer fluída, mutável, passageira, instântanea, coisas do tipo.  
+Não li o livro inteiro dele, ainda – mas deveria ter feito isso já há uns dois meses, mais ou menos. É que é um livro interessante, mas meio chato. Bom.  
+Pescando aqui e ali informações superficialmente, pude perceber que ele é um crítico dessa modernidade líquida, ou, melhor, da “liquidez” desta modernidade.  
+O que não seria de se estranhar.  
+Uma sociedade em constante mutação dificulta muito a vida das pessoas. As mudanças constantes, em geral, dificultam. Um dos problemas da inflação, além da alta, é que nunca se sabe qual será o preço das coisas amanhã – eu lembro que quando eu era criança achava fascinante essa troca constante: qual será o preço amanhã? E decorava os preços dos produtos do supermercado para ver como tinham mudado no dia seguinte. Claro que eu fazia isso porque não era eu quem pagava a divertida remarcação diária.  
+Os telefones celulares também são assim. Você pega o número de alguém e vá saber se daqui a uma semana a criatura não trocou de celular e, junto com isso, de número e de operadora. Claro que tem gente – como eu – que fica anos e anos com o mesmo número (eu chego ao cúmulo de ter tido não somente apenas um número até hoje, como também apenas dois aparelhos desde 2002, quando ganhei o primeiro).  
+Eu lembro de uma piadinha nos Simpsons (no “famigerado”, muito bom na minha opinião, episódio no Brasil), sobre as mudanças no nome da empresa de telefonia: “- vamos ligar para a cia. X; – mas ela se chama Y; – não, ela trocou de nome para Z; – mês passado trocou para V”, isso foi a fala de quatro personagens.  
+Exemplos dessa liquidez social não faltam: ações na bolsa, moda, best-sellers do momento, etc e etc.  
+Uma das críticas do autor é que isto dificulta qualquer combate: você vai brigar com quem hoje?  
+Seu modem pifou, deu pau. Você reclama a) com o fabricante? b) com o provedor que lhe vendeu o modem no pacote promocional? c) com a cia. de energia elétrica por causa da queda de tensão? d) com o procon? e) com o governo que não fiscaliza essa gente toda? f) com os Estados Unidos que mandam no mudo e poderiam resolver isso mas só pensam na guerra no Iraque e em Israel?
+
+O lance é que é um livro sobre nada (como eu li por cima, posso estar errado). Mas é um livro que se propõe a fazer uma crítica da modernidade excessivamente mutável que possuímos.
+
+Mas qual é a alternativa? A modernidade sólida de 1500, 1600 prá cá? Mulheres solidamente instaladas na função exclusiva de reprodutoras, homossexuais solidamente compreendidos como criminosos e perversores da natureza (com sua sexualidade anti-natural), pessoas solidamente imutáveis empenhadas, principalmente, em que tudo permanecesse como sempre foi, essas são as alternativas? É óbvio que a fluidez social não chega, ainda, em certos âmbitos sociais: pobres ainda são solidamente pobres – a tendência é manterem a pobreza e só evoluírem em direção a uma maior miséria; mulheres ainda são solidamente “invasoras” de um mundo pretensamente – solidamente – masculino, basta ver que os mesmos argumentos que os nazistas do III Reich utilizavam contra os judeus, ou que os tosquinhos skinheads ainda usam contra os nordestinos, são utilizados sobre a entrada das mulheres no mercado de trabalho (estão tirando empregos dos homens), e que a dona de casa, hoje em dia, deve ser considerada uma profissional (a única profissão do mundo que não produz dinheiro…); esses dias eu descobri que ainda se usa, e muito, chamar gays de “putos”, como se todo gay se prostituísse… o próximo passo é me dizerem que todo mundo ainda pensa que todas as lésbicas não se depilam e querem ser homens, e que, sei lá, não existem militares homossexuais.
+
+Eu não sei se estou me fazendo entender: é uma grande balela esta história de que a melhora das condições de vida estão está aí, disponível para todos, ou que vivemos em uma democracia. Mas a fluidez, mesmo que ainda não tenha desmanchado algumas pedras duríssimas, e mesmo que tenha trazido novas dificuldades para o mundo, ainda assim tem seus benefícios que, no fim das contas, acabam sendo vantajosos. Claro que é um problema que as pessoas sejam descartáveis como embalagens de leite, ou que o nível mais profundo que muitas pessoas consigam atingir em uma relação com outras pessoas seja o de dividir a mesma comunidade do Orkut; mas a idéia não era essa mesma? Tudo bem que hoje em dia as pessoas são mais manipuláveis do que ontem, mas a diferença é que ontem uma manipulação prevalecia sobre todas e era a verdadeira. Se é medíocre o fato de que hoje as pessoas querem ser aquilo que seu personagem de novela favorito é, muito pior é a opressão de nunca poder sair do modelo-padrão cristalizado pela tradição.
+
+Eu não estou pedindo que tudo seja mutável: eu gosto de saber que a parada do meu ônibus vai estar amanhã no mesmo lugar onde estava hoje (e que ele vai ir para o mesmo lugar onde foi ontem também); gosto de saber que se ontem você gostava de mim (um “você” genérico, não é você – mas você pode gostar de mim, se quiser), hoje vai gostar também; gosto da perspectiva de que a moeda brasileira talvez ainda se chame “Real” daqui a dez anos, e não troque de nome a cada governo; gosto de ir no mercado e ver que o chocolate continua com o mesmo preço, horrível mas pelo menos igual (aí eu posso ir dois dias a pé para a faculdade e comprar uma barra no final de semana, e ainda pedir umas Sete Belo de troco – as originais, não essas esquisitices de maçã-verde e morango que inventaram) (ai que saudade das balas Xaxá que arrancavam minhas obturações a cada mordida…). Gosto, enfim de meia dúzia de certezas na vida.
+
+Mas acho muito bom que a sociedade flua hoje em dia.

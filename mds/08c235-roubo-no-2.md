@@ -1,0 +1,14 @@
+---
+layout: single
+title: "Roubo nº 2"
+date: 2008-03-23 03:43:00 +0000
+permalink: /08c235-roubo-no-2/
+header:
+  og_image: "https://mrclmlt.com.br/capa.jpg"
+---
+
+23/03/2008
+
+Copiado sem autorização (quer dizer, roubado) [daqui](http://quediaehoje.wordpress.com/). O título do post é “Saiba”.
+
+Que seus amigos vão se decepcionar pelo menos três vezes com você ao longo de sua vida. Que o volume do som dos intervalos comerciais da TNT e da FOX sempre serão mais altos. Que filmes dublados tiram toda a graça. Que seu cartão não vai passar um dia e você, sim, vai passar vergonha. Que sua mãe vai te encabular na frente dos seus amigos. Sua avó terá um neto preferido. Que incenso e maconha são complementares quando se é adolescente. Que toda família tem um segredo. Que você terá que usar pelo menos uma peça de roupa usada. Que você vai ter uma doença, vai ser assaltado, vai sofrer um acidente. Que a maioria dos seus amigos acredita em astrologia sem entender bem o que é. Que vai perder um relógio, uma chave e um guarda-chuva. Que vai ouvir falar em diversos tipos de superstição, mas nenhum deles é relevante. Quando se é adolescente tudo em você é desproporcional e todas as pessoas mudariam algo em si. O buraco (que não é buraco) da camada de ozônio é culpa dos carnívoros. Giz de cêra é cheiroso, mas não é comestível (a regra se aplica ao creme dental, à massinha e ao batom de sua amiga. Jovens gays têm que aprender a correr antes de se revelarem. Todo filme tem um erro, pelo menos. Os fios de aparelhos eletrônicos não devem ser dobrados. Poucas pessoas sabem do conteúdo básico de etiqueta. O tamanho das roupas de uma loja pra outra pode variar. O Brasil sempre será mal visto pelo mundo. Jornalistas precisam ser mimados com brindes e presentes. A moda é cruel, elitizada, rápida e nunca alcançável. É necessário saber cozinhar pelo menos um prato. Cerveja cura ressaca. É melhor ser asalariado, a menos que queira ser safenado. Pensar em doce engorda, passar vontade engorda o dobro. Não existe chefe perfeito. Câncer de pele existe. Terapeutas e psicólogos não são parte de uma raça superior e dona da verdade. Um amigo médico pode mudar seu fim de semana com apenas um carimbo. A maioria dos seus amigos quer “economizar e emagrecer”. Nordestinos não têm tecla SAP. Todos têm um professor predileto. Entrar no mar está fora de cogitação. Todo mundo compra algo que nunca irá usar. Nunca leve Kaiser a um churrasco. Nunca chore antes de se deitar. Tudo em exagero é ruim, menos sapatos. Que 95% da população mundial tem parasitas no intestino. Cílios grandes e cabelo liso são motivos de inveja até de seus melhores amigos. Dois “eles” e “y” não!

@@ -1,0 +1,26 @@
+---
+layout: single
+title: "A economia ou a vida¹"
+date: 2021-12-17 10:48:18 +0000
+permalink: /21l489-a-economia-ou-a-vida%c2%b9/
+header:
+  og_image: "https://mrclmlt.com.br/capa.jpg"
+---
+
+17/12/2021
+
+Deus criou a humanidade “modelando” barros e costelas e insuflou nesta matéria o espírito, e mesmo quem não acredita nisto aceita que nada na origem da vida envolveu dinheiro. Não precisamos de dinheiro para amar, para sorrir e nem para ter esperança. O dinheiro não é o sentido da vida, e só a ganância (um brinde anexado no Pecado Original) é capaz de esvaziar o coração de alguém a ponto de fazer do dinheiro um fim em si mesmo – e é este tipo de ganância que, entre outras coisas, faz com que a maioria permaneça em uma injustificável miséria enquanto uma micronesca minoria acumula mais e mais matéria, mais ou menos como buracos negros que sugam tudo, desde a matéria até a luz ao seu redor (eu não sei qual é o contrário de “gigantesca”, e “pequenesca” ainda me pareceu ser ainda muito grande para a des-proporção da quantidade de ricos para com a quantidade de pobres).
+
+A partir desta perspectiva da futilidade que é o dinheiro, quem tem demais pode muito bem tentar convencer quem não tem, ou tem muito pouco, de que Deus fez o mundo assim, sem recursos disponíveis para todo mundo, e que o melhor é aceitar, afinal, quem é que vai querer discutir com Deus (além de Jó)? Não faz tanto tempo assim, aliás, que a ideia de que é melhor ser pobre porque Deus gosta dos pobres servia como um conto-do-vigário teológico para manter os explorados vergados sob o jugo dos seus exploradores. Depois do Concílio Vaticano II a conversa é outra, mas nem todos os cristãos levam-no em conta (e nem mesmo todos os católicos o aceitam), muito menos todos os integrantes das outras religiões, e assim continuam proliferando contos-do-vigário ora convencendo os pobres a ficarem pobres porque Deus ama a pobreza deles, ora convencendo os pobres que Deus está só esperando um investimento feito com fé para trocar isto por muito dinheiro (e se o dinheiro não vem, é porque faltou fé, enquanto isto tem que continuar investindo até que a fé apareça).
+
+Assumindo que a Doutrina Social da Igreja representa mais ou menos a vontade de Deus, o que Deus quer é que a criação esteja disponível a todas as pessoas que ele criou (e apesar de Deus não ter criado o dinheiro, não deixa de ser uma criação indireta já que o ser humano, criado por Deus, criou por sua vez o dinheiro, entre outras coisas): não que todas as pessoas devam poder comprar tudo o que possam sonhar, nem que todas devam ficar peladas em Assis como São Francisco, mas só que todas tenham acesso seja ao que Deus criou, seja ao que o ser humano criou com o que Deus criou.
+
+Eu parto destes princípios religiosos para desvalorizar o dinheiro, mas não é necessário partir do mesmo princípio para chegar à mesma conclusão: o dinheiro não é o centro em torno do qual a vida e o mundo giram em volta.
+
+Quando o bolsonarismo colocou o falso dilema da escolha entre economia e saúde, a intenção era preservar a saúde e a economia dos mais ricos às custas da saúde e da economia dos mais pobres, pois a intenção era que os mais pobres continuassem a tocar os serviços necessários para os mais ricos e, morrendo ou ficando incapacitados neste processo, não teria problema pois o que não falta no país são desempregados para substituí-los. Acontece que qualquer caso em que economia, saúde (expandindo agora para itens que não entraram na questão da pandemia), amor, trabalho, religião, etc., entrem em conflito, não é porque uma coisa valha ou tenha que valer mais do que a outra, mas porque uma coisa está sendo injustamente mais valorizada do que a outra. Até os martírios cristãos entre os séculos I e III foram causados por governantes que impuseram um conflito, manter a fé ou a vida, que não existiria sem aquelas decisões governamentais.
+
+Mas não é porque o bolsonarismo antepõe a economia à vida, nem porque dinheiro não é tudo (as últimas quatro palavras antes deste parêntesis resumem os primeiros quatro parágrafos deste texto, mas eles deram muito trabalho para eu deletá-los agora e substituí-los por elas) que melhorar as condições financeiras da população se torne uma questão classificada entre um problema secundário e um problema em si.
+
+A maioria das pessoas que melhorou as condições de vida (quer dizer, as condições materiais) graças aos governos petistas foi quem votou mal para eleger este governo bolsonarista, mas isto não é motivo para que devolver-lhe melhores condições dependa de ter aprendido a(lguma) lição. Gente vivendo em condições decentes votando mal é melhor do que gente morrendo à míngua votando bem – e se o ciclo de viver bem e votar mal para viver mal e votar bem pra viver bem e votar mal (e assim por diante) ficar se repetindo, é melhor repeti-lo até que a maioria aprenda a viver bem e votar bem (sem cair no conto das arminhas e mamadeiras de piroca da vida) do que esperar que aconteça uma espécie de aperfeiçoamento da consciência para depois melhorar as condições de vida das pessoas.
+
+1: Texto inspirado em parte nos cometários [deste post](https://www.facebook.com/mrclmlt/posts/10159244832142860) do Facebook.

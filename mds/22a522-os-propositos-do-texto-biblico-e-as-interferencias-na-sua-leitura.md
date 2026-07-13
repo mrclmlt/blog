@@ -1,0 +1,22 @@
+---
+layout: single
+title: "Os propósitos do texto bíblico e as interferências na sua leitura"
+date: 2022-01-03 12:49:20 +0000
+permalink: /22a522-os-propositos-do-texto-biblico-e-as-interferencias-na-sua-leitura/
+header:
+  og_image: "https://mrclmlt.com.br/midia/22a522-os-propositos-do-texto-biblico-e-as-interferencias-na-sua-leitura.png"
+---
+
+03/01/2022
+
+![](/midia/22a522-os-propositos-do-texto-biblico-e-as-interferencias-na-sua-leitura.png)[![](/midia/22a522-os-propositos-do-texto-biblico-e-as-interferencias-na-sua-leitura.png)](https://mrcl.files.wordpress.com/2022/01/abreaspas.png)
+
+Nossa experiência também nos mostra que é mais fácil comunicar e compreender um relato do que um estudo filosófico, uma anedota do que uma reflexão profunda. Finalmente, a informação, por exemplo, de um problema de química se comunica de outra maneira que uma experiência pessoal ou um acontecimento.
+
+Pois bem, os escritos da Bíblia comunicam experiencias e acontecimentos, não simples informação histórica ou outra (o que se passou); são produtos de reflexões sobre algo vivido ou acontecido (o que significa o que se passou). O que se comunica nos escritos bíblicos não é somente o que talvez se passou, mas a importância ou significação daquilo que se comunica; não tanto o “dado”, mas sua interpretação. Precisamente por isso se comunica, porque é significativo para o emissor. É importante recordar isto, porque se tende a pensar mais na informação como tal do que se passou, e se esquece que o que se queria comunicar era o seu significado. Assim, por exemplo, a recorrente pergunta “por que não se relatou nos Evangelhos algo a respeito dos anos de juventude de Jesus”? deve-se à incompreensão do que acabo de sublinhar. Não se relatou, porque não se considerou importante ou significativo, pois os evangelistas não pretenderam escrever uma biografia de Jesus (e menos ainda em sentido moderno), mas antes destacar a significação de sua pessoa e da missão que cumpriu – sua atenção era teológica, não cronística.
+
+Antes de continuar – não pensemos que o importante seja simplesmente a comunicação da mensagem como tal -, devemos ter presente que, quando se transmite uma mensagem, se faz com um propósito. A mensagem como tal é aquilo que o emissor deseja comunicar ao receptor; é cognitiva. O propósito situa-se antes no nível da vontade e dos sentimentos: é aquilo que o emissor deseja que o receptor faça ou sinta, sua resposta vital ou reação à mensagem. A mensagem de uma fatura é informativa (existe a dívida); seu propósito é que se pague a dívida. Ambos são inseparáveis. A mensagem do Apocalipse é que Deus é o Senhor da história e que aqueles que lhe permanecem fiéis serão vitoriosos sobre as forças adversas. O propósito de seu autor é que os leitores de seu livro permaneçam fiéis a Deus, apesar das adversidades que os possam mover a questionar a justiça divina e sua soberania, e os tentem a abandonar a Deus. A mensagem é informativa, o propósito é que confiem em Deus. Portanto, ao falar da “mensagem” está implícita a noção de que se trata de uma comunicação com um propósito.
+
+Quanto ao receptor, este escuta ou lê a mensagem criticamente: aceita-a ou rejeita-a total ou parcialmente, segundo seus próprios critérios e condicionamentos. O receptor compreende e interpreta a mensagem segundo sua formação cultural, sua condição socioeconômica, suas ideias, seus preconceitos, interesses e anseios, e também segundo a imagem que tem a respeito do emissor. Isso também faz parte de nossa experiência: “não o entendo”, “é um tonto, um reacionário”, “não me convence”, “estou de acordo, mas…”. Quantas vezes o receptor não nos compreende ou nos interpreta mal! Por quê? Frequentemente intervém o que se denominam interferências. Além das psicológicas, as mais frequentes são as ideológicas: filtram o que lhe convém, segundo seus preconceitos, o que o reafirma em sua posição e, por isso, não escuta a mensagem atentamente ou com abertura. São essas interferências que frequentemente impedem as pessoas de compreender a natureza e a razão de ser da Bíblia. Certamente, com a escuta da mensagem, vem a resposta do receptor, sua reação à mensagem (ao propósito do emissor): conversão, rejeição, meditação, perdão etc.
+
+A Bíblia mitos, pgs. 62-63

@@ -1,0 +1,28 @@
+---
+layout: single
+title: "Borges"
+date: 2007-01-19 03:56:00 +0000
+permalink: /07a78-borges/
+header:
+  og_image: "https://mrclmlt.com.br/capa.jpg"
+---
+
+19/01/2007
+
+“Jorge Luís Borges armou um hábil jogo intelectual com a idéia do original e da cópia. No conto ‘Pierre Menard, autor do Quixote’, o narrador copia um trecho do romance de Cervantes. Trata-se do mesmo texto, sendo outro, porque o leitor do século XVII não é o leitor do séxulo XX.”
+
+Eu nunca pude falar desse texto (Jorge Menard, autor do Quixote) antes por um motivo muito simples, muito bobo, tão besta e tão bobo que até parece uma coisa muito complexa: eu não conseguia explicar o texto, sem citar praticamente o texto todo. Não é que eu não tenha entendido, é que eu nunca consegi explicar esse texto.
+
+E é uma idéia, ela também, tão simples, que parece difícil – e foi por isso que eu copiei o trecho acima de uma revista. Pierre Menard copia um trecho do Quixote e quer apresentar o que escreveu como sendo de sua autoria. Além da referência que o autor do artigo faz à diferença entre os leitores do século XVII e os do século XX, o narrador do conto, Pierre Menard, mostra outra diferença: imagine que ele, Pierre, escreveu no século XX um texto típico do século XVII. Ele não copiou D. Quixote, ele reescreveu. Mas reescreveu mantendo cada palavra, cada letra como estava no original – certamente um texto muito diferente dos textos atuais. Utilizou um espanhol antigo, já em desuso, um estilo antigo, cenas e costumes passados. Nem Cervantes escreveu uma obra assim, já que, quando escreveu D. Quixote, o espanhol que usou, as cenas e costumes que descreveu, o estilo que desenvolveu, eram contemporâneos.
+
+Esse conto de Borges vale, para mim, antes de mais nada pela genialidade muito simples. Pelo menos para mim: eu, se tivesse tido essa idéia, diria em duas linhas que um romance antigo copiado e publicado hoje, seria diferente porque está inserido em outra época, em outro contexto. Sou uma pessoa simplória, no fim das contas.
+
+Mas J.L. Borges teve uma idéia genial e escreveu o texto de maneira genial também.
+
+Além disso, é um texto que funciona muito bem nos dias de hoje, em que se fala muito em direitos autorais: até que ponto um texto é inédito? Um dia li um texto do Luís Fernando Veríssimo (por quem tenho certas reservas, mas me divirto lendo) em que ele fala de escritores que citam algum trecho de algum livro na introdução: ele (LFV) se perguntava porque ele não poderia citar, por exemplo, todo o Dom Casmurro na introdução, e escrever depois uma história com dois parágrafos? Reneé Magrite tem um quadro que se chama (ou eu acho que se chama) Ce nes’t pas a pipe (“Isto não é um cachimbo”, e não confie na minha grafia em francês), que consiste no desenho de um cachimbo e, abaixo do desenho lê-se “isto não é um cachimbo” (escrito em francês); outro quadro de Magritte é o mesmo desenho, mas dentro de um quadro apoiado em um tripé e, acima do quadro, um cachimbo enorme. E se eu (em um excepcional rompante de artista, porque não sei pintar) pintasse um quadro que representasse o quadro de Magritte na sala da minha casa (um quadro muito ficcional, portanto, pois não tem nenhum quadro de Magritte na sala da minha casa)? E se outra pessoa pintasse outro quadro que representasse o meu quadro na sala da casa dela? E mais outra representasse o quadro anterior ao lado de uma garrafa de Coca-cola?
+
+Na Wikipedia discute-se muito se deve-se adotar ou não o fair-use. Todo conteúdo cedido à Wikipédia deve ser, necessariamente, livre de direitos autorais. Mas se eu copio algo de outra pessoa sem permissão, estou infringindo seus direitos autorais, portanto, não se enquadra na licença da Wikipédia. Porém, quem defende o fair-use defende que os direitos autorais são direitos menores diante do direito à educação e à informação, e que, portanto, vale a pena copiar material alheio e colocar na Wikipedia. Eu até seria a favor disso, se a licença da wikipedia não liberasse o uso do seu material, também, para fins comerciais. Sou completamente a favor do copyleft e essas coisas todas, mas desconfio muito quando alguém vem querer ganhar dinheiro em cima do trabalho dos outros – coisa que eu faria se eu tivesse oportunidade, pelo menos enquanto eu não acertar uma Mega Sena acumulada. O problema nem é ganhar dinheiro em cima do trabalho dos outros – se meu trabalho pudesse render dinheiro também a outras pessoas, bom para elas. O problema é que se você, por exemplo, copia um texto protegido com copyright para a Wikipedia, arrisca a vir alguém e ganhar dinheiro com seu texto, enquanto que você não ganha.
+
+Claro que isso é uma enorme hipocrisia social: é justamente isso que acontece com quem trabalha em chão de fábrica, por exemplo. A pessoa que monta os tênis que serão vendidos não é a autora daqueles pares de tênis que montou? Ou, no mínimo, co-autora, junto com a pessoa que projetou? O estivador não é o autor do carregamento da carga que carregou no navio? A secretária que redigiu a ata de umareunião não é a autora do texto que reproduz o que foi dito na reunião? Essas pessoas não recebem direitos autorais pelo que fazem, e sim um salário que permite abrir um crediário e parcelar a conta do telefone quando vem alta. Eu iria gostar de receber direitos autorais pelos memorandos e relatórios que faço: alguns são, modéstia à parte, pequenas pérolas.
+
+Mas tudo isso foi só para falar daquele texto do Luís Borges, que é muito bom. A coisa boa em descobrir estes textos ótimos tardiamente – se eu me interessasse, poderia ter lido tudo isso quando era adolescente e ficava rateando na rua – é justamente descobrir estes textos hoje em dia. É muito bom achar novidades assim para ler.
