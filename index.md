@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Meu Primeiro Site
+title: Blog
 ---
-# Bem-vindo ao meu site Jekyll!
+# Blog
 Este é o meu primeiro teste.
+
+[Teste](/blog/teste/)
