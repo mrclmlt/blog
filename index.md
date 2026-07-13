@@ -70,14 +70,16 @@ Em breve um blog
 [Iii Encontro Nacional da Economia 23/09/25](25i739-iii-encontro-nacional-da-economia.md)  
 </details>
 
-<details><summary><strong>2024</strong></summary>
+<details markdown="1"><summary><strong>2024</strong></summary>
+
 [teste 2 12/02/24](24b738-dozefev.md)  
 [teste 12/02/24](24b737-5176-2.md)  
 [Mudou-se 25/01/24](24a736-mudou-se.md)  
 [Confiando todas as necessidades da vida terrena ao Coração Divino livramos delas nosso coração, de modo que nossa alma se torna livre para participar da vida divina. 22/01/24](24a735-2101t.md)  
 </details>
 
-<details><summary><strong>2022</strong></summary>
+<details markdown="1"><summary><strong>2022</strong></summary>
+
 [O fogo do céu 26/06/22](22f734-o-fogo-do-ceu.md)  
 [O Senhor fará germinar sua justiça 25/06/22](22f733-o-senhor-fara-germinar-sua-justica.md)  
 [As condições do amor de Deus 24/06/22](22f732-as-condicoes-do-amor-de-deus.md)  
@@ -300,7 +302,8 @@ Em breve um blog
 [Feliz 2022 01/01/22](22a515-feliz-2022.md)  
 </details>
 
-<details><summary><strong>2021</strong></summary>
+<details markdown="1"><summary><strong>2021</strong></summary>
+
 [Alemanha desativa mais três usinas nucleares 31/12/21](21l514-alemanha-desativa-mais-tres-usinas-nucleares.md)  
 [Gente sensível ponto com 31/12/21](21l513-gente-sensivel-ponto-com.md)  
 [Cristofacismo como discurso de proteção aos fundamentalismos 30/12/21](21l512-cristofacismo-como-discurso-de-protecao-aos-fundamentalismos.md)  
@@ -370,7 +373,8 @@ Em breve um blog
 [Nossa Senhora das Pesquisas 01/01/21](21a448-nossa-senhora-das-pesquisas.md)  
 </details>
 
-<details><summary><strong>2020</strong></summary>
+<details markdown="1"><summary><strong>2020</strong></summary>
+
 [Maria, Mãe de Deus 31/12/20](20l447-maria-mae-de-deus.md)  
 [As vidraças do Carrefour 21/11/20](20k446-as-vidracas-do-carrefour.md)  
 [Lc 16,9 07/11/20](20k445-lc-169.md)  
@@ -460,7 +464,8 @@ Em breve um blog
 [A impotência do cristianismo 01/01/20](20a361-a-impotencia-do-cristianismo.md)  
 </details>
 
-<details><summary><strong>2019</strong></summary>
+<details markdown="1"><summary><strong>2019</strong></summary>
+
 [Quem me dera 24/12/19](19l360-quem-me-dera.md)  
 [Os limites da arte 23/12/19](19l359-os-limites-da-arte.md)  
 [Questionáveis sugestões 22/12/19](19l358-questionaveis-sugestoes.md)  
@@ -498,7 +503,8 @@ Em breve um blog
 [Missas 09/01/19](19a326-missas.md)  
 </details>
 
-<details><summary><strong>2018</strong></summary>
+<details markdown="1"><summary><strong>2018</strong></summary>
+
 [Sobretensão 22/09/18](18i325-sobretensao.md)  
 [Portfólio artístico 14/09/18](18i324-portfolio-artistico.md)  
 [A Bolha 10/09/18](18i323-a-bolha.md)  
@@ -509,7 +515,8 @@ Em breve um blog
 [Se eu não vir as marcas dos pregos… 08/04/18](18d318-se-eu-nao-vir-as-marcas-dos-pregos.md)  
 </details>
 
-<details><summary><strong>2017</strong></summary>
+<details markdown="1"><summary><strong>2017</strong></summary>
+
 [None 18/10/17](17j317-276-2.md)  
 [Efésios e a submissão das mulheres parte II 17/10/17](17j316-efesios-e-a-submissao-das-mulheres-parte-ii.md)  
 [Veneno anti-ressentimento 14/06/17](17f315-veneno-anti-ressentimento.md)  
@@ -525,11 +532,13 @@ Em breve um blog
 [Retomada 10/03/17](17c305-retomada.md)  
 </details>
 
-<details><summary><strong>2012-2016</strong></summary>
+<details markdown="1"><summary><strong>2012-2016</strong></summary>
+
 <p>?????</p>
 </details>
 
-<details><summary><strong>2011</strong></summary>
+<details markdown="1"><summary><strong>2011</strong></summary>
+
 [Jaelle 19/06/11](11f304-jaelle.md)  
 [None 17/06/11](11f303-309-2.md)  
 [Hipátia 08/03/11](11c302-hipatia.md)  
@@ -547,13 +556,15 @@ Em breve um blog
 [Nem lembrava deste blog… 14/02/11](11b290-nem-lembrava-deste-blog.md)  
 </details>
 
-<details><summary><strong>2009</strong></summary>
+<details markdown="1"><summary><strong>2009</strong></summary>
+
 [Relação 14/05/09](09e289-relacao.md)  
 [Tesão pelo amor e amor pelo tesão 06/04/09](09d288-tesao-pelo-amor-e-amor-pelo-tesao.md)  
 [Holocausto 27/02/09](09b287-holocausto.md)  
 </details>
 
-<details><summary><strong>2008</strong></summary>
+<details markdown="1"><summary><strong>2008</strong></summary>
+
 [Sonho 21/11/08](08k286-sonho.md)  
 [A hora e a vez da lixeira 18/10/08](08j285-a-hora-e-a-vez-da-lixeira.md)  
 [Idéias 18/10/08](08j284-ideias.md)  
@@ -628,7 +639,8 @@ Em breve um blog
 [Believe 06/01/08](08a215-believe.md)  
 </details>
 
-<details><summary><strong>2007</strong></summary>
+<details markdown="1"><summary><strong>2007</strong></summary>
+
 [W.O. 28/12/07](07l214-w-o.md)  
 [Infância, de Nathalie Sarraute 27/12/07](07l213-infancia-de-nathalie-sarraute.md)  
 [Saibam 27/12/07](07l212-saibam.md)  
@@ -797,7 +809,8 @@ Em breve um blog
 [Feliz 2007!! 01/01/07](07a49-feliz-2007.md)  
 </details>
 
-<details><summary><strong>2006</strong></summary>
+<details markdown="1"><summary><strong>2006</strong></summary>
+
 [Mais filosofia e enfermagem 31/12/06](06l48-mais-filosofia-e-enfermagem.md)  
 [Momento sem assunto 31/12/06](06l47-momento-sem-assunto.md)  
 [Da série "Textos enormes para problemas maiores ainda" 31/12/06](06l46-da-serie-textos-enormes-para-problemas-maiores-ainda.md)  
