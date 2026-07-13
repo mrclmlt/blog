@@ -1,0 +1,14 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px; /* ajuste o valor conforme desejar */
+}
+
+p, li {
+  font-size: 1em;
+}
