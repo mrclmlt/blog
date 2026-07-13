@@ -1,8 +1,10 @@
 ---
 layout: home
 title: Blog
+sidebar:
+  nav: "menu"
 ---
-Teste 1, 2, 3.
+Em breve um blog
 
 <!-- isso não dá certo, nem com .md no final [13 de jul 26](https://mrclmlt.com.br/13jul26)-->  
 [Teste](/blog/teste/)  
