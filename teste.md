@@ -2,6 +2,7 @@
 layout: single
 title: "Teste"
 excerpt: "teste 1 2 3"
+permalink: /teste/
 header:
   og_image: "https://mrclmlt.com.br/capa.jpg"
 ---
