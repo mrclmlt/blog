@@ -1,2 +1,19 @@
-title: Blog
-theme: minima
+# Configuração do Tema Minimal Mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "aqua"
+
+# Informações Básicas do Site
+title: "blog"
+description: "Em breve"
+
+# Configurações de Links Reais do Seu Repositório
+url: "https://github.io"
+baseurl: "/blog"
+
+# Plugins obrigatórios para o tema funcionar no GitHub Pages
+plugins:
+  - jekyll-include-cache
+
+# Configurações de Leitura Básica
+markdown: kramdown
+highlighter: rouge
