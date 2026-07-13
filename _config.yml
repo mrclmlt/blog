@@ -1,6 +1,6 @@
 # Minimal Mistakes
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "aqua"
+remote_theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "default"
 
 # Info
 title: "Blog"
