@@ -1,0 +1,11 @@
+menu:
+  - title: "Realidade"
+    text: "Soy realista, pero como soy de Latinoamérica mi realismo es mágico."
+
+  - title: "Teste"
+    children:
+      - title: "Bíblia de Aparecida"
+        url: "https://www.a12.com/biblia"
+    
+  - title: "Outro teste"
+    text: "Teste três"
