@@ -4,7 +4,7 @@ title: Blog
 ---
 Teste 1, 2, 3.
 
-[13 de jul 26](https://mrclmlt.com.br/13jul26)  
+<!-- isso não dá certo, nem com .md no final [13 de jul 26](https://mrclmlt.com.br/13jul26)-->  
 [Teste](/blog/teste/)  
 [Defender a terra é defender a vida 11/07/26](26g798-defender-a-terra-e-defender-a-vida.md)  
 [Cena 10/07/26](26g797-cena.md)  
