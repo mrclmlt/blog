@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Blog
 ---
 Em breve um blog
 
