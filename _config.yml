@@ -16,7 +16,3 @@ plugins:
 
 # Equivalente a <html lang="pt-BR">
   locale: "pt-BR"
-
-# pra não aparecer "recent posts" no index.md
-pt-BR:
-  recent_posts: " "
