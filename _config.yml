@@ -7,8 +7,8 @@ title: "mrclmlt"
 description: "Em construção (para variar)"
 
 # links
-url: "https://github.io"
-baseurl: "/blog"
+url: "https://blog.mrclmlt.com.br"
+baseurl: ""
 
 # Plugim obrigatório
 plugins:
