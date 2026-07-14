@@ -2,6 +2,8 @@
 layout: home
 ---
 Em breve um blog
+![descrição em breve](capa.jpg) 
+
 
 <!-- isso não dá certo, nem com .md no final [13 de jul 26](https://mrclmlt.com.br/13jul26)-->  
 [Teste](/blog/teste/)  
