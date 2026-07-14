@@ -1,7 +1,8 @@
 ---
 layout: home
+description: (em construção, pra variar)
 ---
-Em breve um blog
+(em construção, pra variar) 
 ![descrição em breve](capa.jpg) 
 
 
