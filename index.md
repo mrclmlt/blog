@@ -2,8 +2,20 @@
 layout: home
 description: (em construção, pra variar)
 ---
+---
+layout: home
+description: (em construção, pra variar)
+---
+
+<style>
+  h2 {
+    font-size: 0.8em;
+}
+</style>
+
+
 (em construção, pra variar) 
-![descrição em breve](capa.jpg) 
+![Foto tirada "de dentro" de uma cerca de concertina atravessada por uma Buganvile.](capa.jpg) 
 
 
 <!-- isso não dá certo, nem com .md no final [13 de jul 26](https://mrclmlt.com.br/13jul26) Mudar tamanho da imagem: {: width="50%"} colado no fecha parêntesis-->  
