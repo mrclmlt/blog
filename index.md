@@ -2,10 +2,11 @@
 layout: home
 description: (em construção, pra variar)
 ---
----
-layout: home
-description: (em construção, pra variar)
----
+<style>
+  h2 {
+    font-size: 0.8em;
+  }
+</style>
 
 (em construção, pra variar) 
 ![Foto tirada "de dentro" de uma cerca de concertina atravessada por uma Buganvile.](capa.jpg) 
