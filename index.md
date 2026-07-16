@@ -4,7 +4,7 @@ description: (em construção, pra variar)
 ---
 <style>
   h2 {
-    font-size: 0.8em;
+    font-size: 1em;
   }
 </style>
 
