@@ -16,3 +16,7 @@ plugins:
 
 # Equivalente a <html lang="pt-BR">
 locale: "pt-BR"
+
+# aparentemente desativa o feed padrão do jekyll e ativa o personalizado na raiz
+feed:
+  path: feed-desativado.xml
