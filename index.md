@@ -14,6 +14,7 @@ description: (em construção, pra variar)
 
 <!-- isso não dá certo, nem com .md no final [13 de jul 26](https://mrclmlt.com.br/13jul26) Mudar tamanho da imagem: {: width="50%"} colado no fecha parêntesis-->  
 [Teste](/blog/teste/)  
+## [Foi por medo de avião](26g800-foi-por-medo-de-aviao.md)  
 ## [Eu e a arte 15/07/26](26g799-eu-e-a-arte.md)  
 ## [Defender a terra é defender a vida 11/07/26](26g798-defender-a-terra-e-defender-a-vida.md)  
 ## [Cena 10/07/26](26g797-cena.md)  
