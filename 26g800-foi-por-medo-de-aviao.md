@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Foi por medo de avião"
-date: 2026-07-15 15:00:00 -0300
+date: 2026-07-17 07:00:00 -0300
 permalink: /26g800-foi-por-medo-de-aviao/
 description: ou melhor, por medo do avião cair
 header:
