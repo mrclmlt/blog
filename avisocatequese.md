@@ -6,6 +6,7 @@ permalink: /avisocatequese/
 description: O próximo encontro da catequese será 08/08
 header:
   og_image: "https://mrclmlt.com.br/i/15jul26.jpg"
+rss_exclude: true
 ---
 
 ### Recesso
