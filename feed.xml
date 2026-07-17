@@ -1,0 +1,36 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/feed.xml" | absolute_url }}" rel="self" type="application/rss+xml" />
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+
+    {% assign sorted_pages = site.pages | where_exp: "item", "item.layout == 'single'" | where_exp: "item", "item.date" | where_exp: "item", "item.rss_exclude != true" | sort: "date" | reverse %}
+
+    {% for page in sorted_pages %}
+    {% assign slug = page.url | remove_first: "/" %}
+    {% if slug contains "/" %}{% assign slug = slug | split: "/" | first %}{% endif %}
+    <item>
+      <title>{{ page.title | xml_escape }}</title>
+      <description>
+        {% if page.description %}
+          {{ page.description | xml_escape }}
+        {% else %}
+          {{ page.content | strip_html | truncatewords: 50 | xml_escape }}
+        {% endif %}
+      </description>
+      <pubDate>{{ page.date | date_to_rfc822 }}</pubDate>
+      <link>{{ page.url | absolute_url }}</link>
+      <guid isPermaLink="false">{{ slug }}</guid>
+      {% if page.header and page.header.og_image %}
+        <enclosure url="{{ page.header.og_image | absolute_url }}" type="image/jpeg" />
+      {% endif %}
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
