@@ -6,6 +6,7 @@ permalink: /sobre/
 description: Sobre esse blog
 header:
   og_image: "https://blog.mrclmlt.com.br/capa.jpg"
+rss_exclude: true
 ---
 <h1>Sobre</h1>
 <p><a href="/sobre/#sobre">Sobre</a> – <a href="/sobre/#creditos">créditos</a> – <a href="/sobre/#links">links</a> – <a href="/sobre/#termos">termos de uso</a> –</p>
