@@ -10,8 +10,20 @@ rss_exclude: true
 ---
 <h1>Sobre</h1>
 <p><a href="/sobre/#sobre">Sobre</a> – <a href="/sobre/#creditos">créditos</a> – <a href="/sobre/#links">links</a> – <a href="/sobre/#termos">termos de uso</a> –</p>
+
+É um blog com minhas ideias, opiniões e pontos de vista, às vezes com textos copiados de outros lugares (quase todos com os devidos créditos).
+
+Começou em 2006 e chegou até aqui com alguns intervalos, um deles de quatro anos. Eu mudei algumas das perspectivas que eu tinha desde então, mas os textos ainda estão aí porque mudar de ideia não é renegar o passado. Cada retomada foi às vezes em uma plataforma diferente, outras vezes em um momento de vida diferente, e algumas vezes com uma proposta diferente - que nunca deixou de se encaixar no que está ali em cima, em todo caso. 
+
+Devem ter alguns outros textos meus perdidos por outros blogs por aí, o que está aqui é uma sequência de importações de uma plataforma para a outra, passando por Classic Press, Neocities, Wordpress (.org e .com), Textpattern, Writefreely, Dokuwiki, Tumblr, Blogger, sem contar períodos em que os textos estiveram no google docs, no docspace do onlyoffice ou no docs da Zoho, por exemplo. Hoje em dia está num Jekyll do Github.
+
+Algumas postagens tem coisas que só funcionam no wordpress, então estão vazias ou meio desconfiguradas. Outras tem uma referência a uma imagem mas a incorporação dela se perdeu entre uma importação e outra (ou então o código ficou bagunçado). Está cheio de links quebrados, principalmente nas postagens mais antigas, porque o blog linkado não existe mais, ou restringiu a visualização, e esses dias achei um link que o site virou outra coisa (o link não vai mais pra onde ia, mas leva pra home desse novo site que fica no mesmo endereço do que tinha na época que eu linkei).
+
+<!--
 <p id="sobre">A ideia de uma teologia experimental virou uma pasta de textos no <a href="https://docspace-9x6vo2.onlyoffice.com/s/pJ2RtTfJ4vpGLkf" target="_blank" rel="noreferrer noopener">Onlyoffice</a>, depois um site no <a href="https://teologia.neocities.org" target="_blank" rel="noopener">Neocities</a>, para, no fim, <del>virar uma <a href="https://mrclmlt.com.br/category/teologiaexperimental/">categoria</a> de postagens nesse WordPress</del><sup>3</sup> vir parar <del>no <a href="https://vivaldi.com/pt-br/" target="_blank" rel="noopener">Vivaldi</a></del> no <a href="https://www.classicpress.net/">Classic Press</a>. Essas postagens tem textos ou que eu tenha escrito, ou que eu tenha copiado de outros lugares, e são <a href="/teologia-de-terracota/#teologia">quase sempre sobre teologia</a>, que nesse caso é <em>experimental</em> porque porque não é (e nem pretende ser) acadêmica<sup>1</sup>. A maioria das postagens anteriores a 2026 são coisas importadas e reimportadas de outros blogs que eu tive</p>
 <p>Se fosse para dar um motivo de querer escrever tanto assim, só daria para parafrasear o <a href="https://archive.ph/GPspV" target="_blank" rel="noopener">Motivo</a> de <strong>Cecília Meireles</strong>: eu escrevo porque a escrita existe, e vai seguindo a vida. Não sou alegre nem triste: sou escrivista<sup>2</sup>.</p>
+-->
+
 <h2 id="creditos">Créditos</h2>
 <p>A foto de <a href="/mrclmlt/#dorothyday" data-type="link" data-id="/mrclmlt/#dorothyday">Dorothy Day</a> é da <a href="https://commons.wikimedia.org/wiki/File:Dorothy_Day_(cropped).jpg" target="_blank" rel="noreferrer noopener" data-type="link" data-id="https://commons.wikimedia.org/wiki/File:Dorothy_Day_(cropped).jpg">Wikimedia</a>. As imagens do papa Francisco <a href="/mrclmlt/#familiaemconserva" data-type="link" data-id="/mrclmlt/#familiaemconserva">numa lata de conserva</a> e a foto da <a href="/mrlcmlt/#alnaoehzonadeguerra" data-type="link" data-id="/mrlcmlt/#alnaoehzonadeguerra">América Latina não é zona de guerra</a> são, respectivamente, de uma postagem no instagram do perfil que está escrito na própria imagem, e de uma postagem da UNE não sei em que rede social.</p>
 <p class="wp-block-paragraph">A imagem de <a href="/mrclmlt/#pazdecristo" data-type="link" data-id="https://mrclmlt.vivaldi.net/mrclmlt/#pazdecristo">Jesus quebrando uma arma</a> (Christus zerbricht das Gewehr) é de <a href="https://web.archive.org/web/20180415173452/https://www.pankok-museum-esselt.de/die-pankoks/otto-pankok/werk/" target="_blank" rel="noreferrer noopener">Otto Pankok</a></p>
@@ -55,12 +67,16 @@ rss_exclude: true
 <h4 id="3-atribua-nao-plagie" class="wp-block-heading">3. Atribua, não plagie</h4>
 <p class="wp-block-paragraph">Não plagie. Você pode citar, desde que atribua corretamente e inclua um link para este espaço. Não cedo direitos autorais para fins comerciais. Sinta-se livre, no entanto, para compartilhar ideias e desenvolvê-las a partir daqui. Por algum motivo não dá pra selecionar parte de um texto. Não fui eu que fiz isso e não sei como tirar isso também.</p>
 <p class="wp-block-paragraph">—-</p>
+
+<!--
 <p class="wp-block-paragraph">¹ Sem desvalorizar a teologia acadêmica, nem qualquer outra coisa acadêmica.</p>
 <p class="wp-block-paragraph">² No Wikicionário, o terceiro significado do sufixo <a href="https://pt.wiktionary.org/wiki/-ista#Portugu%C3%AAs" target="_blank" rel="noreferrer noopener">“-ista”</a> é “quem usa algo”. Dizer que eu sou um escritor soaria muito pedante (não vivo de escrever, nem sou um mago das palavras), por isso escrivista, alguém que usa a escrita, me pareceu mais adequado, porque uso ela meio que como ferramenta, meio que como um adicto.</p>
 <p><sup>3</sup> Talvez volte pro Neocities em 2028 que é até quando o domínio está pago, ou antes se esta hospedagem de agora aumentar o preço na renovação (eu devo ter visto isso um ano atrás e não deve aumentar, mas não lembro). O WordPress é prático, mas para quem tem um computador mais fraco é muito sofrimento para usar, sem contar que aquele monte de temas e plugins é um campo minado de coisas freemium então, no geral, é um <a href="https://pt.wikipedia.org/wiki/%C3%8Dcaro#Interpreta%C3%A7%C3%A3o" target="_blank" rel="noopener">sonho de Ícaro</a> pra quem não tem dinheiro pra investir.</p>
 <hr id="comentarios" class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 <h3>Redes sociais</h3>
 <div id="social-links-content"></div>
+-->
+
 <hr />
 <blockquote><p>&#8220;Irmãos, irmãs, este é o nosso Deus: Jesus, Rei da paz. Um Deus que rejeita a guerra; que ninguém pode usar para justificar a guerra; que não escuta mas rejeita a oração de quem faz a guerra, dizendo: «Podeis multiplicar as vossas preces, que Eu não as atendo. É que as vossas mãos estão cheias de sangue».&#8221;</p></blockquote>
 <p>(<a href="https://www.vaticannews.va/pt/papa/news/2026-03/papa-leao-xiv-homilia-domingo-de-ramos-29-marco-2026.html" target="_blank" rel="noopener">Leão XIV</a>).</p>
