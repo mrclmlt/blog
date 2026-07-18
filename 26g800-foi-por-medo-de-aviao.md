@@ -32,4 +32,4 @@ Só por garantia.
 
 <sup>2</sup> Não vai dar nem para sentir saudades do Graal, já que os preços de lá são mais ou menos os mesmos do aeroporto (mas não vai ter a emoção de comer correndo por medo do motorista ir embora sem mim).
 
-<sup>3</sup> Listados na ordem cronológica em que eu conheci eles, pra não dar briga. Lista não exaustiva (editado em 18 de julho). 
+<sup>3</sup> Listados na ordem cronológica em que eu conheci eles, pra não dar briga. Lista não exaustiva <small>(editado em 18 de julho)</small>.
