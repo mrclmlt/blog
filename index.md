@@ -13,7 +13,9 @@ description: (em construção, pra variar)
 
 
 <!-- isso não dá certo, nem com .md no final [13 de jul 26](https://mrclmlt.com.br/13jul26) Mudar tamanho da imagem: {: width="50%"} colado no fecha parêntesis-->  
-[Teste](/blog/teste/)  
+[Sobre](sobre.md)  
+## [Argentina X Espanha](26g801-argentina-x-espanha.md)
+Quatro pequenas listas com os prós e os contras de torcer pela Argentina e pela Espanha nessa copa amaldiçoada pelo trumpismo e pelas bets (19/07)
 ## [Foi por medo de avião](26g800-foi-por-medo-de-aviao.md)  
 Sobre como às vezes parece que é mais fácil ter fé em Deus dentro de um avião do que numa missa (17/07)  
 ## [Eu e a arte 15/07/26](26g799-eu-e-a-arte.md)  
