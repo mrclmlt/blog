@@ -15,7 +15,7 @@ description: (em construção, pra variar)
 <!-- isso não dá certo, nem com .md no final [13 de jul 26](https://mrclmlt.com.br/13jul26) Mudar tamanho da imagem: {: width="50%"} colado no fecha parêntesis-->  
 [Sobre](sobre.md) 
 ## [Ônibus são melhores que avião](26g802-onibus-sao-melhores-que-aviao.md) 
-Um desabafo em tom de reclamação 20 de julho) 
+Um desabafo em tom de reclamação (20 de julho) 
 ## [Argentina X Espanha](26g801-argentina-x-espanha.md)
 Quatro pequenas listas com os prós e os contras de torcer pela Argentina e pela Espanha nessa copa amaldiçoada pelo trumpismo e pelas bets (19/07)
 ## [Foi por medo de avião](26g800-foi-por-medo-de-aviao.md)  
