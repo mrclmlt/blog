@@ -20,3 +20,7 @@ locale: "pt-BR"
 # aparentemente desativa o feed padrão do jekyll e ativa o personalizado na raiz
 feed:
   path: feed-desativado.xml
+
+# pro well-knoww do annot.at não ser uma pasta ignorada
+include:
+  - ".well-known"
