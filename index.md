@@ -8,13 +8,12 @@ description: (em construção, pra variar)
   }
 </style>
 
-(em construção, pra variar) <section class="exemplo"><a href="https://entreblogs.com.br" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Bbck0NgwO4Lq0vPdvH7Qi8VU72pCgJKgNeqaoBzQBbOGDBAzzkTS0PlRop4L-HhgjGj36W2w0079R704GQabAYigZZmgGf5QexmFN0IqM0uLzmrhyphenhyphenRRMXCFSKJDxDX5ZuRLHtsazL7YKALC3kMAo0t5bQhddiRUrOl_xb6aRojyb8oWIZ-0fU0olmxMJ/s700/GIF%20Selo%202.0.gif" alt="Selo 2.0" width="200" /></a></section>
+(em construção, pra variar) - [Sobre](sobre.md)
 ![Foto tirada "de dentro" de uma cerca de concertina atravessada por uma Buganvile.](capa.jpg) 
 
+[![Selo 2.0](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Bbck0NgwO4Lq0vPdvH7Qi8VU72pCgJKgNeqaoBzQBbOGDBAzzkTS0PlRop4L-HhgjGj36W2w0079R704GQabAYigZZmgGf5QexmFN0IqM0uLzmrhyphenhyphenRRMXCFSKJDxDX5ZuRLHtsazL7YKALC3kMAo0t5bQhddiRUrOl_xb6aRojyb8oWIZ-0fU0olmxMJ/s700/GIF%20Selo%202.0.gif){:width="200"}](https://entreblogs.com.br){:target="_blank"}
 
-<!-- isso não dá certo, nem com .md no final: [13 de jul 26](https://mrclmlt.com.br/13jul26) - Mudar tamanho da imagem: {: width="50%"} colado no fecha parêntesis-->  
-
-[Sobre](sobre.md) 
+<!-- isso não dá certo, nem com .md no final: [13 de jul 26](https://mrclmlt.com.br/13jul26) - Definir o tamanho da imagem: {: width="50%"} colado no fecha parêntesis-->  
 
 ## [Ônibus são melhores que avião](26g802-onibus-sao-melhores-que-aviao.md) 
 Um desabafo em tom de reclamação (20/07) 
