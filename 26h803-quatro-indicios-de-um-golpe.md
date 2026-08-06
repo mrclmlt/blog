@@ -6,6 +6,7 @@ permalink: /26h803-quatro-indicios-de-um-golpe/
 description: que no fim não aconteceu
 header:
   og_image: "https://mrclmlt.com.br/i/26h803-quatro-indicios-de-um-golpe.jpg"
+tid: 3mseqcv3c2222
 ---
 
 Eu tirei esta postagem dos rascunhos que provavelmente nunca veriam a luz do dia por causa do [BEDA](https://manualdousuario.net/entreblogs-beda-guardioes-da-blogosfera/){:target="_blank"} no [Entreblogs](https://entreblogs.com.br/index){:target="_blank"} sobre o que pode ter sido uma tentativa de golpe ou várias coincidências em série, muito bem encaixadas demais para não parecerem indícios pro meu gosto.
