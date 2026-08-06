@@ -1,6 +1,6 @@
 # Minimal Mistakes
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "contrast"
 
 # Info
 title: "mrclmlt"
