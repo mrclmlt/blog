@@ -15,6 +15,8 @@ description: (em construção, pra variar)
 
 <!-- isso não dá certo, nem com .md no final: [13 de jul 26](https://mrclmlt.com.br/13jul26) - Definir o tamanho da imagem: {: width="50%"} colado no fecha parêntesis-->  
 
+## [15 minutos](26h805-quinze-minutos.md)
+uma postagem sobre si mesma
 ## [As minimíssimas jornadas](26h804-as-minimissimas-jornadas.md)
 numa rampa do metrô (07/08)
 ## [Quatro indícios de um golpe](26h803-quatro-indicios-de-um-golpe.md)
