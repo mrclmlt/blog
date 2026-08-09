@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Da série "Textos enormes para problemas maiores ainda""
+title: "Da série «Textos enormes para problemas maiores ainda»"
 date: 2006-12-31 17:42:00 +0000
 permalink: /06l46-da-serie-textos-enormes-para-problemas-maiores-ainda/
 header:
