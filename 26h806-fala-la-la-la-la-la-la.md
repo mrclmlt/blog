@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Foi por medo de avião"
+title: "Fala-la-la-la-la-la-la"
 date: 2026-08-09 22:00:00 -0300
 permalink: /26h806-fala-la-la-la-la-la-la/
 description: Reflexão sobre Secos & Molhados
