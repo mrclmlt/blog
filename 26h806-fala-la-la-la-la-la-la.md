@@ -24,7 +24,7 @@ Não é que eu não entenda, mas eu demoro para entender, remoer, analisar, test
 
 Nessa parte de entendimento, eu sou meio que uma paráfrase do Anakim pré- Darth Vader (num dos filmes 1, 2 e 3 que vieram depois do 4, 5 e 6): eu demoro pra entender, mas também demoro pra esquecer (o que não dá pra romantizar, porque isso também significa demorar para corrigir o que foi entendido errado).
 
-![vou ter que descrever depois porque estou escrevendo no.celular](https://upload.wikimedia.org/wikipedia/commons/b/b6/Salvaterra%2C_Brazil_-_Brasil%2C_Maraj%C3%B3_(38297782304).jpg)<small>Um orelhão para ilustrar que "então eu escuto".</small>
+![Um orelhão decorado com uma pintura tipo arte abstrata dento de um quiosque à beira-mar, com a praia ao fundo.](https://upload.wikimedia.org/wikipedia/commons/b/b6/Salvaterra%2C_Brazil_-_Brasil%2C_Maraj%C3%B3_(38297782304).jpg)<small>Um orelhão para ilustrar que "então eu escuto".</small>
 
 >Eu só vou falar na hora de falar, então, eu escuto: fala-la-la-la-la-la-la-la-la, fala.
 
