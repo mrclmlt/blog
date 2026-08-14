@@ -15,6 +15,9 @@ description: (em construção, pra variar)
 
 <!-- isso não dá certo, nem com .md no final: [13 de jul 26](https://mrclmlt.com.br/13jul26) - Definir o tamanho da imagem: {: width="50%"} colado no fecha parêntesis-->  
 
+## [De mudança](26h807-de-mudanca.md)
+Só mudando o endereço do blog (14/08)
+
 ## [Fala-la-la-la-la-la-la](26h806-fala-la-la-la-la-la-la.md)
 Reflexão sobre Secos & Molhados (09/08)
 ## [15 minutos](26h805-quinze-minutos.md)
